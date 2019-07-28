@@ -21,7 +21,7 @@ Stage 2 app will:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚬ Allow users to mark a movie as a favorite in the details view by tapping a button (star).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚬ Allow users to share the movie trailer link to social media or any other sharing platform on long press<br><br>
 What Will I Learn After Stage 2?<br><br>
-&nbsp;&nbsp;&nbsp;•Make use of Android Architecture Components (Room, LiveData, ViewModel and Lifecycle) to create a robust an efficient &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;application.<br>
+&nbsp;&nbsp;&nbsp;•Make use of Android Architecture Components (Room, LiveData, ViewModel and Lifecycle) to create a robust an efficient &nbsp;&nbsp;&nbsp;application.<br>
 &nbsp;&nbsp;&nbsp;•Create a database using Room to store the names and ids of the user's favorite movies (and optionally, the rest of the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;information needed to display their favorites collection while offline).<br><br>
 API Key<br>
 The movie information uses The Movie Database (TMDb) API. To make your app work, you have to enter your own API key into build.gradle file.<br>
